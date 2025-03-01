@@ -1,6 +1,6 @@
 ## Hi there! I'm Cristian Decaroli, a Data Engineer 👋
 
-**Tools** (and something to lear deep yet)
+**Tools** (and some that are still learning in depth)
 - SQL
 - Python (Pandas, Numpy, Seaborn, MatplotLib, and others)
 - AWS
