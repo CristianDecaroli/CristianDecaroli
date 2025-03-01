@@ -1,5 +1,14 @@
 ## Hi there! I'm Cristian Decaroli, a Data Engineer 👋
 
+**Tools** (and something to lear deep yet)
+- SQL
+- Python (Pandas, Numpy, Seaborn, MatplotLib, and others)
+- AWS
+- Apache Airflow
+- Apache Spark
+- Apache Hive
+
+
 <!--
 **CristianDecaroli/CristianDecaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
