@@ -1,4 +1,4 @@
-## Hi there! I'm Cristian Decaroli, a Data Engineer 👋
+## Hi there! I'm Cristian Decaroli, a Data Engineer & Analyst👋
 
 
 <!--
